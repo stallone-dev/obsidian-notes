@@ -18,8 +18,45 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "51e37b962456d1f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livros/Lidos/Entendendo Algoritmos - Aditya Y Bhargava.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9e46f4d4ff8ab841",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livros/Lidos/Entendendo Algoritmos - Aditya Y Bhargava.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da0d231c416cbd40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Livros/Em aberto/Sem título.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Livros/Em aberto/Sem título.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Livros/Em aberto/Sem título.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Livros/Em aberto/Sem título.md"
               }
             }
           },
@@ -156,10 +193,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "99185150aa70ecfd",
+  "active": "4ac79188497bffd4",
   "lastOpenFiles": [
-    "lost_found/teste found.md",
+    "Livros/Lidos/Entendendo Algoritmos - Aditya Y Bhargava.md",
+    "Livros/Em aberto/Sem título.md",
+    "Conceitos/Algoritmos.md",
     "README.md",
+    "Conceitos",
+    "Livros/Em aberto",
+    "Livros/Lidos",
+    "Livros",
+    "lost_found/teste found.md",
     "lost_found/PRIVATE NOTES",
     "teste archive.md"
   ]
