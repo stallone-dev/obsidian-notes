@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "lost_found/teste found.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "lost_found/teste found.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "lost_found/teste found.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "teste archive.md"
+                "file": "lost_found/teste found.md"
               }
             }
           },
@@ -154,7 +156,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4ac79188497bffd4",
+  "active": "99185150aa70ecfd",
   "lastOpenFiles": [
     "README.md",
     "teste archive.md",

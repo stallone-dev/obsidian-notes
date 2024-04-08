@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "lost_found",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./anexos"
+  "attachmentFolderPath": "./anexos",
+  "showInlineTitle": false
 }
