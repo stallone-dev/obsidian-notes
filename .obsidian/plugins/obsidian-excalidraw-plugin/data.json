@@ -1,5 +1,5 @@
 {
-  "folder": "Excalidraw",
+  "folder": "/lost_found/DRAWS",
   "cropFolder": "",
   "annotateFolder": "",
   "embedUseExcalidrawFolder": false,
@@ -13,7 +13,7 @@
   "drawingFilenamePrefix": "Drawing ",
   "drawingEmbedPrefixWithFilename": true,
   "drawingFilnameEmbedPostfix": " ",
-  "drawingFilenameDateTime": "YYYY-MM-DD HH.mm.ss",
+  "drawingFilenameDateTime": "DD-MM-YY HH.mm.ss",
   "useExcalidrawExtension": true,
   "cropPrefix": "cropped_",
   "annotatePrefix": "annotated_",

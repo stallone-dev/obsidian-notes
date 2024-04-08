@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lost_found/teste found.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "lost_found/teste found.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "lost_found/teste found.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "lost_found/teste found.md"
+                "file": "README.md"
               }
             }
           },
@@ -158,8 +158,9 @@
   },
   "active": "99185150aa70ecfd",
   "lastOpenFiles": [
+    "lost_found/teste found.md",
     "README.md",
-    "teste archive.md",
-    "lost_found/teste found.md"
+    "lost_found/PRIVATE NOTES",
+    "teste archive.md"
   ]
 }
