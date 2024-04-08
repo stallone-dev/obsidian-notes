@@ -1,1 +1,7 @@
-{}
+{
+  "showLineNumber": false,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "lost_found",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./anexos"
+}

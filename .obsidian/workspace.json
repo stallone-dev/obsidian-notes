@@ -18,21 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "896fb2b23a285240",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "teste archive.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "teste archive.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "teste archive.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,7 +154,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "896fb2b23a285240",
+  "active": "4ac79188497bffd4",
   "lastOpenFiles": [
     "README.md",
     "teste archive.md",
