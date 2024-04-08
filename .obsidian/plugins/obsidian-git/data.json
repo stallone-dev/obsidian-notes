@@ -1,10 +1,10 @@
 {
   "commitMessage": "vault backup: {{date}}",
-  "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
+  "commitDateFormat": "DD-MM-YY HH:mm:ss",
   "autoSaveInterval": 5,
-  "autoPushInterval": 0,
+  "autoPushInterval": 10,
   "autoPullInterval": 0,
-  "autoPullOnBoot": false,
+  "autoPullOnBoot": true,
   "disablePush": false,
   "pullBeforePush": true,
   "disablePopups": false,
@@ -30,12 +30,12 @@
   "authorInHistoryView": "hide",
   "dateInHistoryView": false,
   "lineAuthor": {
-    "show": false,
+    "show": true,
     "followMovement": "inactive",
-    "authorDisplay": "initials",
+    "authorDisplay": "hide",
     "showCommitHash": false,
-    "dateTimeFormatOptions": "date",
-    "dateTimeFormatCustomString": "YYYY-MM-DD HH:mm",
+    "dateTimeFormatOptions": "hide",
+    "dateTimeFormatCustomString": "DD-MM - HH:MM",
     "dateTimeTimezone": "viewer-local",
     "coloringMaxAge": "1y",
     "colorNew": {
@@ -50,9 +50,9 @@
     },
     "textColorCss": "var(--text-muted)",
     "ignoreWhitespace": false,
-    "gutterSpacingFallbackLength": 5,
+    "gutterSpacingFallbackLength": 0,
     "lastShownAuthorDisplay": "initials",
-    "lastShownDateTimeFormatOptions": "date"
+    "lastShownDateTimeFormatOptions": "custom"
   },
   "autoCommitMessage": "vault backup: {{date}}"
 }
